@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:16213e,100:0f3460&height=180&section=header&text=Andrey%20Zamyatin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Trenj%20•%20Software%20Engineering%20Student&descAlignY=58&descSize=16" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,50:16213e,100:0f3460&height=120&section=header" width="100%" />
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Студент+программной+инженерии;UX%2FUI+дизайнер;Увлекаюсь+нейросетями+и+ML;Python+%7C+C%23+%7C+C%2B%2B)](https://git.io/typing-svg)
@@ -48,7 +47,11 @@
 ### Фреймворки, библиотеки и инструменты
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=django,dotnet,numpy,pandas,sklearn,pytorch,redis,git,github,vscode,visualstudio,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,dotnet,scikitlearn,pytorch,redis,git,github,vscode,visualstudio,figma&theme=dark)](https://skillicons.dev)
+<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" />
 
 </div>
 
@@ -63,9 +66,8 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -75,24 +77,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Trenj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trenj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+<img src="https://github-stats-extended.vercel.app/api?username=Trenj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Trenj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Trenj&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://streak-stats.demolab.com?user=Trenj&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
 ---
 
-## 📈 Активность за последний месяц
+## 📈 Активность за последний год
 
 <div align="center">
 
-[![Trenj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Trenj&theme=github-compact&hide_border=true&area=true&custom_title=График%20активности)](https://github.com/Trenj)
+<img src="https://ghchart.rshah.org/Trenj" alt="Trenj's Activity Graph" width="100%" />
 
 </div>
 
-> График обновляется автоматически каждый день и показывает коммиты, PR и issues за последние ~30 дней.
+> График показывает коммиты за последний год и обновляется ежедневно.
 
 ---
 
